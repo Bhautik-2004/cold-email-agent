@@ -1,0 +1,7 @@
+node_modules/
+.env
+# Google OAuth client secret and your saved login token. Never commit these.
+credentials.json
+token.json
+# Which threads already got a draft
+state.json
